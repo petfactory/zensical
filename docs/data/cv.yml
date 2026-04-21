@@ -1,7 +1,3 @@
----
-template: "cv.html"
-title: CV
-cv_data:
 - date: "2025-05-11"
   start_date: "2025-03-17"
   client_name: "Volvo Construction Equipment"
@@ -510,5 +506,3 @@ cv_data:
   title: "BFA Degree - Industrial Design"
   info: "BFA Degree Industrial design - Umeå Institute of Design, Umeå. Sweden"
   tags: [industrial design, bfa, degree, uid]
-
----

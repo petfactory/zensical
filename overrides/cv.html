@@ -1,0 +1,57 @@
+{% extends "main.html" %}
+
+
+{% block content %}
+
+
+<!-- {# Initialize a variable to track the year change #} -->
+{% set last_year = "" %}
+
+  {% for item in page.meta.cv_data %}
+
+    <!-- {# get the year from the fata strimg #} -->
+    {% set current_year = item.date[:4] %}
+
+    <!-- {# If the year is different from the last one, print the H1 #} -->
+    {% if current_year != last_year %}
+      <h2 id="{{ current_year }}" >{{ current_year }}</h2>
+      {% set last_year = current_year %}
+    {% endif %}
+
+    <!-- <p>{{ item.title }} - {{ item.start_date }}</p> -->
+    <p>{{ item.title }}</p>
+
+  {% endfor %}
+
+
+<div>
+  <ul>
+    
+    {% set last_year = "" %}
+
+      {% for item in page.meta.cv_data %}
+
+        {% set current_year = item.date[:4] %}
+
+        {% if current_year != last_year %}
+        
+            <li>
+              <a href="#{{ current_year }}">{{ current_year }}</a>
+            </li>
+                  
+          {% set last_year = current_year %}
+
+        {% endif %}
+
+      {% endfor %}
+
+  </ul>
+</div>
+
+
+{% endblock %}
+
+
+
+
+
