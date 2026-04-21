@@ -49,9 +49,9 @@ nav = [
   { "Work" = "work.md" },
   { "CV" = "cv.md" },
   {"Notes" = [
-    "notes/houdini/vex.md",
-    "notes/houdini/intro.md",
-    "notes/unreal/get_started.md"
+    "notes/houdini/_houdini_.md",
+    "notes/unreal/_unreal_.md",
+    "notes/resolve/_resolve_.md"
   ]}
 ]
 
