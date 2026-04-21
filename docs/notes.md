@@ -2,4 +2,4 @@
 icon: lucide/rocket
 ---
 
-## About
+## Notes

@@ -45,13 +45,12 @@ Copyright &copy; 2026 Petfactory
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-  { "Home" = "index.md" },
-  { "About" = "about.md" },
-  {"Houdini" = [
+  { "About" = "index.md" },
+  { "Work" = "work.md" },
+  { "CV" = "cv.md" },
+  {"Notes" = [
     "houdini/vex.md",
-    "houdini/intro.md"
-  ]},
-  {"Unreal" = [
+    "houdini/intro.md",
     "unreal/get_started.md"
   ]}
 ]
