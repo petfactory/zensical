@@ -1,5 +1,8 @@
 ---
 icon: lucide/rocket
+hide:
+#   - toc
+#   - navigation
 ---
 
 ## About

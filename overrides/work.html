@@ -1,0 +1,15 @@
+{% extends "main.html" %}
+
+
+{% block content %}
+
+  {% for item in page.meta.work_data %}
+
+    <a href="{{ item.url }}">{{ item.title  }}
+      <img src="{{ item.thumb }}" class="work-img">
+    </a>
+
+  {% endfor %}
+
+
+{% endblock %}
