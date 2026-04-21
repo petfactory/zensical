@@ -6,6 +6,7 @@
 #
 # ============================================================================
 
+
 [project]
 
 # The site_name is shown in the page header and the browser window title
@@ -46,7 +47,7 @@ Copyright &copy; 2026 Petfactory
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "About" = "about.md" },
-  { "Work" = "work.md" },
+  { "Work" = "work/work.md" },
   { "CV" = "cv.md" },
   {"Notes" = [
     "notes/houdini/_houdini_.md",
@@ -353,3 +354,34 @@ combine_header_slug = true
 [project.markdown_extensions.pymdownx.tasklist]
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.tilde]
+
+
+[[project.extra.pet_projects]]
+title = "Polestar 3 - 04"
+url = "/work/polestar3-04"
+thumb = "/assets/work/polestar3_susp_vat_02_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Lego Jeep - 02"
+url = "/work/lego-jeep-02"
+thumb = "/assets/work/lego_jeep_vat_04_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Lego porsche 911 RSR - 01"
+url = "/work/lego-porsche-911-RSR-01"
+thumb = "/assets/work/porsche_911_RSR_03_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Polestar 3 - 03"
+url = "/work/polestar3-03"
+thumb = "/assets/work/polestar_3_morph_03_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Polestar 3 - 02"
+url = "/work/polestar3-02"
+thumb = "/assets/work/polestar_2_tone_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Polestar 3 - 01"
+url = "/work/polestar3-01"
+thumb = "/assets/work/polestar_3_01_960.jpg"

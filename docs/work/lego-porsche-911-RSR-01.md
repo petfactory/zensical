@@ -1,4 +1,5 @@
 ---
+template: "work_single.html"
 title: "Lego - Porsche 911 RSR - 01"
 date: 2025-02-06T00:00:00+01:00
 draft: false
