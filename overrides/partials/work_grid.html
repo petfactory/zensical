@@ -1,8 +1,19 @@
+<div class="image-grid">
 
-{% for project in config.extra.pet_projects %}
+    {% for project in config.extra.pet_projects %}
+    
+    <div class="grid-item">
+        <a href="{{ project.url }}">
+            <img src={{ project.thumb }} alt="Image 1">
+            <div class="overlay">
+                <div class="text">
+                    {{ project.title  }}
+                </div>
+            </div>
+        </a>
+    </div>
 
-<a href="{{ project.url }}">{{ project.title  }}
-    <img src="{{ project.thumb }}" class="work-img">
-</a>
+    {% endfor %}
 
-{% endfor %}
+</div>
+

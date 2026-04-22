@@ -2,9 +2,9 @@
 template: "work.html"
 title: Work
 hide:
-  # - footer
-  # - toc
-  # - navigation
+  - footer
+  - toc
+  - navigation
 work_data: # I could remove this
 - title: "Polestar 3 - 04"
   url: "polestar3-04"
