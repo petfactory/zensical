@@ -2,6 +2,15 @@
 template: "cv.html"
 title: CV
 cv_data:
+- date: "2026-01-01"
+  start_date: "2025-03-17"
+  client_name: "Volvo Construction Equipment"
+  client_website: "https://www.volvoce.com/"
+  client_contact: "Nina Augustsson"
+  title: "Design Visualization Expert"
+  info: "Technical viz artist, tool building, pipeline scripting. Mainly Houdini, Unreal, VRED & Python"
+  tags: [Houdini, Unreal, VRED]
+
 - date: "2025-05-11"
   start_date: "2025-03-17"
   client_name: "Volvo Construction Equipment"
