@@ -11,8 +11,8 @@ info: ["Unreal", "Houdini"]
 
 {{< youtube id="4lEdEslk__M" class="media-youtube" >}}
 
-![Unreal & Houdini](/images/polestar_3_morph_04_640.jpg)
-![Unreal & Houdini](/images/polestar_3_morph_03_640.jpg)
+![Unreal & Houdini](../assets/work/polestar_3_morph_04_640.jpg)
+![Unreal & Houdini](../assets/work/polestar_3_morph_03_640.jpg)
 
 This project is a mix of Houdini & Unreal. The road and parts of the environment were modeled in Houdini. The vehicle and cameras were also animated in Houdini. In Unreal I used Megascans for the cliffs, decals for the road and textures for the environment materials. I did the edit in sequencer. The scene is lit by an HDRI Backdrop. 
 

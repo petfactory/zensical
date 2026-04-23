@@ -18,7 +18,7 @@ info: ["Unreal", "Houdini"]
 </div>
 
 
-![Unreal & Houdini](/images/porsche_911_RSR_01_960.jpg)
+![Unreal & Houdini](../assets/work/porsche_911_RSR_01_960.jpg)
 
 This project is a mix of Houdini & Unreal. The aim with the project was to understand Vertex Animation Textures (VAT) well enough to be able to build a VAT export tool in Houdini. And over in Unreal, how to build a material that can use the textures to set the position of the vertices. In short VAT is a way to animate meshes on the GPU, using only textures, shaders and data stored on the mesh as vertex colors and custom uv channels. It has a much lighter performance impact on the CPU, compared to traditional skeletal mesh animations. It was great fun and I learned a ton.
 
@@ -29,6 +29,6 @@ Lego model: Porsche 911 RSR by Stephan3321 on mecabricks.com
 Music: Everywhen by Six Umbrellas   
 Licensed under a Attribution-ShareAlike 4.0 International License
 
-![Unreal & Houdini](/images/porsche_911_RSR_03_960.jpg)
-![Unreal & Houdini](/images/porsche_911_RSR_04_960.jpg)
+![Unreal & Houdini](../assets/work/porsche_911_RSR_03_960.jpg)
+![Unreal & Houdini](../assets/work/porsche_911_RSR_04_960.jpg)
 

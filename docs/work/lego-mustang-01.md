@@ -19,9 +19,9 @@ Music: Everywhen by Six Umbrellas
 licensed under a Attribution-ShareAlike 4.0 International License
 
 
-![UInreal & Houdini](/images/lego_mustang_03_960.jpg)
-![UInreal & Houdini](/images/lego_mustang_02_960.jpg)
-![UInreal & Houdini](/images/lego_mustang_01_960.jpg)
+![UInreal & Houdini](../assets/work/lego_mustang_03_960.jpg)
+![UInreal & Houdini](../assets/work/lego_mustang_02_960.jpg)
+![UInreal & Houdini](../assets/work/lego_mustang_01_960.jpg)
 
 
 
