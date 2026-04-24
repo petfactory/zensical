@@ -47,7 +47,7 @@ Copyright &copy; 2026 Petfactory
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   { "About" = "about.md" },
-  { "Work" = "work/work.md" },
+  { "Work" = "work.md" },
   { "CV" = "cv.md" },
   {"Notes" = [
     "notes/houdini/_houdini_.md",
@@ -361,6 +361,7 @@ custom_checkbox = true
 # Petfactory
 #
 # ----------------------------------------------------------------------------
+
 [[project.extra.pet_projects]]
 title = "Polestar 3 - 04"
 url = "/work/polestar3-04"
@@ -372,21 +373,243 @@ url = "/work/lego-jeep-02"
 thumb = "/assets/work/lego_jeep_vat_04_960.jpg"
 
 [[project.extra.pet_projects]]
-title = "Lego porsche 911 RSR - 01"
+title = "Lego - Porsche 911 RSR - 01"
 url = "/work/lego-porsche-911-RSR-01"
 thumb = "/assets/work/porsche_911_RSR_03_960.jpg"
 
 [[project.extra.pet_projects]]
 title = "Polestar 3 - 03"
 url = "/work/polestar3-03"
-thumb = "/assets/work/polestar_3_morph_03_960.jpg"
+thumb = "/assets/work/polestar_3_morph_04_960.jpg"
 
 [[project.extra.pet_projects]]
 title = "Polestar 3 - 02"
 url = "/work/polestar3-02"
-thumb = "/assets/work/polestar_2_tone_01_960.jpg"
+thumb = "/assets/work/polestar_2_tone_02_960.jpg"
 
 [[project.extra.pet_projects]]
 title = "Polestar 3 - 01"
 url = "/work/polestar3-01"
-thumb = "/assets/work/polestar_3_01_960.jpg"
+thumb = "/assets/work/polestar_3_02_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Lego Jeep - 01"
+url = "/work/lego-jeep-01"
+thumb = "/assets/work/lego_jeep_02_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Jeep Wrangler 1987 - 02"
+url = "/work/jeep-wrangler-02"
+thumb = "/assets/work/jeep_lab_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Jeep Wrangler 1987 - 01"
+url = "/work/jeep-wrangler-01"
+thumb = "/assets/work/jeep_05_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Flip - Skuggslem 01 "
+url = "/work/flip-skuggslem-01"
+thumb = "/assets/work/skuggslem_03_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Flip - Essence 01 "
+url = "/work/flip-essence-01"
+thumb = "/assets/work/flip_iittala_04_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Lego 65 Mustang - 01"
+url = "/work/lego-mustang-01"
+thumb = "/assets/work/lego_mustang_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "65 Mustang Fastback - 02"
+url = "/work/mustang-02"
+thumb = "/assets/work/mustang_drift_04_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "65 Mustang Fastback - 01"
+url = "/work/mustang-01"
+thumb = "/assets/work/mustang_quarry_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Objct - 01"
+url = "/work/objct-01"
+thumb = "/assets/work/objct_03_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Lorem Ipsum - 01"
+url = "/work/lorem-ipsum-01"
+thumb = "/assets/work/lorem_ipsum_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Pet Roadeo"
+url = "/work/pet-roadeo"
+thumb = "/assets/work/pet_roadeo_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Nymphe"
+url = "/work/nymphe"
+thumb = "/assets/work/nymphe_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Still Life - 01"
+url = "/work/still-life-01"
+thumb = "/assets/work/still_life_01_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Vellum fluid - 01"
+url = "/work/vellum-fluid-01"
+thumb = "/assets/work/vellum_fluid_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Vellum grains - 01"
+url = "/work/vellum-grains-01"
+thumb = "/assets/work/vellum_grain_02_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Lego - Cars"
+url = "/work/lego-cars"
+thumb = "/assets/work/lego_cars_01_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Lego - Chappie"
+url = "/work/lego-chappie"
+thumb = "/assets/work/chappie_02_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Equilateral"
+url = "/work/equilateral"
+thumb = "/assets/work/equilateral_04_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "Glambot"
+url = "/work/glambot"
+thumb = "/assets/work/glambot_v02_960.jpg"
+
+[[project.extra.pet_projects]]
+title = "VCTbot"
+url = "/work/vctbot"
+thumb = "/assets/work/vctbot_01_960.jpg"
+
+# [[project.extra.pet_projects]]
+# title = "Petbot"
+# url = "/work/petbot"
+# thumb = "/assets/work/petbot_02_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "The Bot 20"
+# url = "/work/the-bot-20"
+# thumb = "/assets/work/thebot_01_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Petcurl"
+# url = "/work/petcurl"
+# thumb = "/assets/work/petcurl_v02_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Hoodie"
+# url = "/work/hoodie"
+# thumb = "/assets/work/hoodie_particles_v01_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Mocap Dance"
+# url = "/work/mocap-dance"
+# thumb = "/assets/work/mocap_dance_v04_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Fluorescent"
+# url = "/work/fluorescent"
+# thumb = "/assets/work/fluorescent_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Guided"
+# url = "/work/guided"
+# thumb = "/assets/work/guided_v01_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Dodecahedron"
+# url = "/work/dodecahedron"
+# thumb = "/assets/work/dodecahedron_v05_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Raku"
+# url = "/work/raku"
+# thumb = "/assets/work/raku_04_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Ceramics"
+# url = "/work/ceramics"
+# thumb = "/assets/work/bowl_v04_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Domino"
+# url = "/work/domino"
+# thumb = "/assets/work/domino_v01_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Tunnel"
+# url = "/work/tunnel"
+# thumb = "/assets/work/tunnel_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Proc city 02"
+# url = "/work/proc-city-02"
+# thumb = "/assets/work/proc_city_02_960.png"
+# 
+# [[project.extra.pet_projects]]
+# title = "The Bot"
+# url = "/work/the-bot"
+# thumb = "/assets/work/the_bot_retro_960.png"
+# 
+# [[project.extra.pet_projects]]
+# title = "Ray"
+# url = "/work/ray"
+# thumb = "/assets/work/ray_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Atlas Copco - Genuine parts"
+# url = "/work/atlas-copco-genuine-parts"
+# thumb = "/assets/work/atlas_genuine_parts_01_960.jpg"
+# 
+# [[project.extra.pet_projects]]
+# title = "Jet Set Pets"
+# url = "/work/jetsetpets"
+# thumb = "/assets/work/jet_set_pets_01_960.jpg"
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
