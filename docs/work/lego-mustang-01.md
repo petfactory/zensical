@@ -1,5 +1,4 @@
 ---
-template: "work_single.html"
 title: "Lego 65 Mustang - 01"
 date: 2024-04-30T00:00:00+01:00
 draft: false

@@ -1,5 +1,4 @@
 ---
-template: "work_single.html"
 title: "Lego - Porsche 911 RSR - 01"
 date: 2025-02-06T00:00:00+01:00
 draft: false
@@ -9,14 +8,7 @@ tags: ["Unreal", "Houdini"]
 info: ["Unreal", "Houdini"]
 ---
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/viMzlwuHNis" 
-        title="Porsche 911 RSR - 01" frameborder="0" allowfullscreen
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        style="position: absolute; width: 100%; height: 100%;">
-</iframe>
-</div>
-
+{{< youtube id="viMzlwuHNis" class="media-youtube" >}}
 
 ![Unreal & Houdini](../assets/work/porsche_911_RSR_01_960.jpg)
 

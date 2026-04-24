@@ -1,5 +1,4 @@
 ---
-template: "work_single.html"
 title: "Polestar 3 - 04"
 date: 2025-02-27T00:00:00+01:00
 draft: false
@@ -9,13 +8,7 @@ tags: ["Unreal", "Houdini"]
 info: ["Unreal", "Houdini"]
 ---
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/1PadncAnTgE" 
-        title="Polestar 3 - 04" frameborder="0" allowfullscreen
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        style="position: absolute; width: 100%; height: 100%;">
-</iframe>
-</div>
+{{< youtube id="1PadncAnTgE" class="media-youtube" >}}
 
 This project is a mix of Houdini & Unreal. The aim with the project was to explore how Vertex Animation Textures (VAT) could be used in a lighting and material workflow. In previous VAT projects I have mainly used the textures for color, position and orientation. Here I wanted to expand the material to include custom roughness, metallic and emissive properties per "piece". The roughness and metallic is not using a VAT texture, but since the mesh in Unreal is only using 1 material I wanted to export a roughness and metallic map that can vary across the "pieces" of the mesh.
 
