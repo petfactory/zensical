@@ -6,9 +6,16 @@ description: "Exploring Solaris (scene building, layout, lighting, and rendering
 poster: "nymphe_01_960.png"
 tags: ["Houdini", "Solaris"]
 info: ["Houdini", "USD", "Karma"]
+template: "work_single.html"
 ---
 
-{{< youtube id="n0mIMtTT20E" class="media-youtube" >}}
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/n0mIMtTT20E" 
+        title="Nymphe" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
 
 <!-- Animated and rendered in [Houdini](https://www.sidefx.com/)   -->
 
@@ -20,7 +27,7 @@ licensed under a Attribution-NonCommercial-ShareAlike 4.0 International License
 3d Model [La Nymphe Salmacis](https://threedscans.com/nouveau-musee-national-de-monaco/la-nymphe-salmacis/)
 
 
-![Vellum fluid - Houdini](../assets/work/nymphe_02_960.png)
-![Vellum fluid - Houdini](../assets/work/nymphe_03_960.png)
-![Vellum fluid - Houdini](../assets/work/nymphe_01_960.png)
+![Vellum fluid - Houdini](../assets/work/nymphe_02_960.jpg)
+![Vellum fluid - Houdini](../assets/work/nymphe_03_960.jpg)
+![Vellum fluid - Houdini](../assets/work/nymphe_01_960.jpg)
 

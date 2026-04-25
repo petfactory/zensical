@@ -6,9 +6,17 @@ description: "Unreal Engine & Houdini"
 poster: "porsche_911_RSR_03_960.jpg"
 tags: ["Unreal", "Houdini"]
 info: ["Unreal", "Houdini"]
+template: "work_single.html"
 ---
 
-{{< youtube id="viMzlwuHNis" class="media-youtube" >}}
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/viMzlwuHNis" 
+        title="Lego - Porsche 911 RSR - 01" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
+
 
 ![Unreal & Houdini](../assets/work/porsche_911_RSR_01_960.jpg)
 

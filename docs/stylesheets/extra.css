@@ -2,11 +2,14 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr); 
   gap: 1px;
-  padding: 0px;
-  left: 0px;
-  position: absolute;
+  /* padding: 0px; */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
-
 
 /* Container needs relative positioning for the absolute overlay */
 .grid-item {
@@ -20,6 +23,7 @@
   height: auto;
   display: block;
   transition: transform 0.3s ease; /* Subtle zoom effect */
+  /* opacity: 0.4; */
 }
 
 /* The Overlay */

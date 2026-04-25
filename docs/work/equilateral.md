@@ -9,5 +9,6 @@ info: ["Houdini", "Substance Designer", "Redshift"]
 ---
 
 <!-- {{< youtube 4pR8JaPVpwQ >}} -->
-![Equilateral - Houdini](../assets/work/still_panel_960_v01.png)
-![Equilateral - Houdini](../assets/work/still_panel_960_v02.png)
+<!-- ![Equilateral - Houdini](../assets/work/equilateral_04_960.jpg) -->
+![Equilateral - Houdini](../assets/work/equilateral_05_960.png)
+![Equilateral - Houdini](../assets/work/equilateral_06_960.png)

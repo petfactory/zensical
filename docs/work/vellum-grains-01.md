@@ -6,13 +6,27 @@ description: "Playing with rigid body dynamics and Solaris (scene building, layo
 poster: "vellum_grain_02_960.jpg"
 tags: ["Houdini", "Solaris"]
 info: ["Houdini", "USD", "Karma"]
+template: "work_single.html"
 ---
 
-{{< youtube id="a3GjXHcDrX8" class="media-youtube" >}}
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/a3GjXHcDrX8" 
+        title="Vellum grains - 01" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
 
-Animated and rendered in [Houdini](https://www.sidefx.com/)  
+Simulation & animation in Houdini
+
 ![Vellum fluid - Houdini](../assets/work/vellum_grain_02_960.jpg)
 ![Vellum fluid - Houdini](../assets/work/vellum_grain_03_960.jpg)
-
 ![Vellum fluid - Houdini](../assets/work/vellum_grain_01_960.jpg)
-{{< youtube id="Pr3F7TBL3Ow" class="media-youtube" >}}
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/Pr3F7TBL3Ow" 
+        title="Vellum grains - 01" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>

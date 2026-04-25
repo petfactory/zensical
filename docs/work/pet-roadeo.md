@@ -6,9 +6,17 @@ description: "Exploring the workflow between Houdini and Unreal. Focusing on env
 poster: "pet_roadeo_01_960.jpg"
 tags: ["Houdini", "Unreal"]
 info: ["Houdini", "Unreal"]
+template: "work_single.html"
 ---
 
-{{< youtube id="7TQ9VJ7NEDM" class="media-youtube" >}}
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/7TQ9VJ7NEDM" 
+        title="Pet Roadeo" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
+
 
 **Houdini ♥️ Unreal**
 
