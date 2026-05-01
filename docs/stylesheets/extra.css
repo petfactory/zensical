@@ -1,3 +1,9 @@
+/*
+------------------------------------------------- 
+  Image grid
+------------------------------------------------- 
+*/
+
 .image-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr); 
@@ -58,16 +64,140 @@
   transform: scale(1.05); /* Slight zoom on image */
 }
 
-/* Tablet: 2 columns under 1020px */
 @media (max-width: 1020px) {
   .image-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-/* Mobile: 1 column under 767px */
 @media (max-width: 767px) {
   .image-grid {
     grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+
+
+
+/*
+------------------------------------------------- 
+  About 
+------------------------------------------------- 
+*/
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  gap: 20px;
+  grid-template-columns: 40% 60%; 
+}
+
+.about-column-left {
+  padding-right: 60px;
+  padding-top: 30px;
+  text-align: right;
+}
+
+.about-column-right {
+  padding: 20px;
+}
+
+@media (max-width: 1220px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+  .about-column-left {
+    padding-right: 60px;
+    padding-top: 30px;
+    text-align: center;
+  } 
+}
+
+
+
+/*
+.about-grid {
+{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 1px;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+}
+.about-parent {
+  display: grid;
+  place-items: center;
+}
+
+.about-div {
+  max-width: 600pt;
+  padding-left: 80pt;
+
+}
+
+.about-img-div {
+  display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 310px;
+}
+
+@media (max-width: 1220px) {
+  .about-div  {
+    max-width: 600pt;
+    padding-left: 0pt;
+
+  }
+}
+*/
+
+/*
+------------------------------------------------- 
+  CV 
+------------------------------------------------- 
+*/
+
+
+.cv-year-div {
+  margin-top: 0px;
+  position: absolute;
+  left: -60px;
+  font-size: 12pt;
+  font-weight: lighter;
+  color: #777;
+}
+
+.cv-info-div {
+  max-width: 400pt;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #292929;
+}
+
+.cv-role {
+  font-weight: lighter;
+  font-size: 12t;
+  color: #999;
+}
+
+.cv-description {
+  margin-top: -10px;
+  font-weight: lighter;
+  font-size: 12pt;
+  color: #777;
+}
+
+@media (max-width: 1220px) {
+  .cv-year-div {
+    margin-top: 10px;
+    position: relative;
+    left: 0px;
+
   }
 }
