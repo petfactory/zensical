@@ -6,7 +6,15 @@ description: "Production of an animation to be used as marketing material in the
 poster: "ray_960.jpg"
 tags: ["Maya"]
 info: ["Maya"]
+template: "work_single.html"
 ---
 
 ![Charge Amps - Ray](../assets/work/ray_960.jpg)
-{{< youtube uV0vOOD2eAQ >}}
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/embed/uV0vOOD2eAQ"
+        title="Ray" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>

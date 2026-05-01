@@ -6,6 +6,7 @@ description: "In this project the focus was on building procedural assets, RBD d
 poster: "raku_04_960.jpg"
 tags: ["Houdini", "Mantra"]
 info: ["Houdini"]
+template: "work_single.html"
 ---
 
 ![Raku Ceramics - Houdini](../assets/work/raku_02_960.jpg)

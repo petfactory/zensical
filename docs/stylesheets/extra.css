@@ -1,5 +1,17 @@
 /*
 ------------------------------------------------- 
+  Theme color
+------------------------------------------------- 
+*/
+
+:root > * {
+  --md-accent-fg-color: #e83e8c;
+  --md-accent-fg-color--transparent: rgba(255, 82, 82, 0.1);
+}
+
+
+/*
+------------------------------------------------- 
   Image grid
 ------------------------------------------------- 
 */
@@ -84,6 +96,21 @@
   About 
 ------------------------------------------------- 
 */
+
+.about-column-right h1 {
+  color: #e83e8c; 
+}
+
+.about-column-right a {
+  color: hotpink;
+  text-decoration: none;
+}
+.about-column-right a:visited  {
+  color: hotpink;
+}
+.about-column-right a:hover  {
+  color: #e83e8c;
+}
 
 .about-grid {
   display: grid;
@@ -171,7 +198,7 @@
   left: -60px;
   font-size: 12pt;
   font-weight: lighter;
-  color: #777;
+  color: #e83e8c;
 }
 
 .cv-info-div {

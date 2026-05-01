@@ -6,6 +6,7 @@ description: "Using the UV Layout node to pack geometry to use in a RBD sim usin
 poster: "domino_v01_960.jpg"
 tags: ["Houdini"]
 info: ["Houdini"]
+template: "work_single.html"
 ---
 
 ![Ceramics - Houdini](../assets/work/domino_v01_960.jpg)

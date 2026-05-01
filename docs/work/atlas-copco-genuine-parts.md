@@ -6,6 +6,7 @@ description: "Production of an animation to to be shown at the bauma fair in Sha
 poster: "atlas_genuine_parts_01_960.jpg"
 tags: ["Maya"]
 info:  ["Maya"]
+template: "work_single.html"
 
 ---
 

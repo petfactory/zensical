@@ -6,6 +6,7 @@ description: "Exploration of various softwares & workflow"
 poster: "still_panel_960_v01.png"
 tags: ["Houdini", "Substance Designer", "Redshift"]
 info: ["Houdini", "Substance Designer", "Redshift"]
+template: "work_single.html"
 ---
 
 <!-- {{< youtube 4pR8JaPVpwQ >}} -->
